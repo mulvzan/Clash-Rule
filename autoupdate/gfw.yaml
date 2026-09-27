@@ -1,6 +1,6 @@
 payload:
-  # 2026-09-27 04:41:09
-  # TOTAL: 4386 urls
+  # 2026-09-28 04:56:22
+  # TOTAL: 4389 urls
   - '+.000webhost.com'
   - '+.0rz.tw'
   - '+.1-apple.com.tw'
@@ -613,6 +613,7 @@ payload:
   - '+.c-est-simple.com'
   - '+.c-span.org'
   - '+.c-spanvideo.org'
+  - '+.c.go-mpulse.net'
   - '+.c.mi.com'
   - '+.c2cx.com'
   - '+.c3pool.com'
@@ -3026,6 +3027,7 @@ payload:
   - '+.qianmo.tw'
   - '+.qiwen.lu'
   - '+.qmp4.com'
+  - '+.qobuz.com'
   - '+.qoos.com'
   - '+.qq.co.za'
   - '+.qstatus.com'
@@ -3904,6 +3906,7 @@ payload:
   - '+.vansky.com'
   - '+.vaticannews.va'
   - '+.vatn.org'
+  - '+.vava8.com'
   - '+.vcf-online.org'
   - '+.vcfbuilder.org'
   - '+.veed.io'
