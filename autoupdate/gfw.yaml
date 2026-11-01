@@ -1,6 +1,6 @@
 payload:
-  # 2026-11-01 05:01:22
-  # TOTAL: 4448 urls
+  # 2026-11-02 05:43:37
+  # TOTAL: 4451 urls
   - '+.000webhost.com'
   - '+.0rz.tw'
   - '+.1-apple.com.tw'
@@ -231,6 +231,7 @@ payload:
   - '+.api.recaptcha.net'
   - '+.api.shuaiapi.com'
   - '+.api.steampowered.com'
+  - '+.api.themoviedb.org'
   - '+.apiary.io'
   - '+.apigee.com'
   - '+.apk.support'
@@ -3742,6 +3743,7 @@ payload:
   - '+.torproject.org'
   - '+.torrentgalaxy.to'
   - '+.torrentkitty.tv'
+  - '+.torrentleech.org'
   - '+.torrentprivacy.com'
   - '+.torrentproject.se'
   - '+.torrenty.org'
@@ -4371,6 +4373,7 @@ payload:
   - '+.youtubegaming.com'
   - '+.youtubekids.com'
   - '+.youversion.com'
+  - '+.youversionapi.com'
   - '+.youwin.com'
   - '+.youxu.info'
   - '+.yt.be'
